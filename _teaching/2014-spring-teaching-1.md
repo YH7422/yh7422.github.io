@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Princeton Teaching"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2023-fall-teaching-1
+venue: "Princeton University, ORFE"
+date: 2023
+location: "Princeton, NJ"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+ORF363/COS323
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+Course name: Computing and Optimization for the Physical and Social Sciences
+Instructor: Amir Ali Ahmadi
