@@ -14,4 +14,6 @@ I am a second year PhD student in the [Operations Research and Financial Enginee
 
 My research focuses on mathematical optimization, with various applications in machine learning, graph theory, etc. Specifically, my prior research incorporates a convex perspective to the neural network training. Currently, I am working on polynomial opimization and applying sum of squares technique to solve the maximum clique problem.
 
+I completed my undergraduate degree at the School of Mathematical Science, Peking University.
+
 Email: [yh7422 at princeton dot edu](yh7422@princeton.edu)
