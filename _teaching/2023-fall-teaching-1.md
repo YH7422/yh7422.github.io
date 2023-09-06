@@ -11,4 +11,5 @@ location: "Princeton, NJ"
 ORF363/COS323
 ======
 Course name: Computing and Optimization for the Physical and Social Sciences
+
 Instructor: Amir Ali Ahmadi
