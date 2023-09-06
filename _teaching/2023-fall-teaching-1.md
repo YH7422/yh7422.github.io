@@ -12,4 +12,6 @@ ORF363/COS323
 ======
 Course name: Computing and Optimization for the Physical and Social Sciences
 
+Time: Fall 2023 
+
 Instructor: Amir Ali Ahmadi
