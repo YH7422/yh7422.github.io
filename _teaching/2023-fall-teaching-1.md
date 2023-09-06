@@ -3,7 +3,7 @@ title: "Princeton Teaching"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-1
-venue: "Princeton University, ORFE"
+venue: "Princeton University"
 date: 2023-09-01
 location: "Princeton, NJ"
 ---
