@@ -14,4 +14,4 @@ My research focuses on mathematical optimization, with various applications in m
 
 I completed my undergraduate degree at the School of Mathematical Science, Peking University.
 
-Email: [yh7422 at princeton dot edu](yh7422@princeton.edu)
+Email: yh7422 at princeton dot edu.
