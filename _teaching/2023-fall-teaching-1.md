@@ -1,12 +1,14 @@
 ---
 title: "Princeton Teaching"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate and graduate courses"
 permalink: /teaching/2023-fall-teaching-1
 venue: "Princeton University"
 date: 2023-09-01
 location: "Princeton, NJ"
 ---
+
+Graduate teaching experiences at the ORFE department at Princeton.
 
 ORF523
 ======
