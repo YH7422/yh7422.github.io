@@ -8,10 +8,18 @@ date: 2023-09-01
 location: "Princeton, NJ"
 ---
 
+ORF523
+======
+Course name: Convex and Conic Optimization
+
+Time: Spring 2024
+
+Instructor: Amir Ali Ahmadi
+
 ORF363/COS323
 ======
 Course name: Computing and Optimization for the Physical and Social Sciences
 
-Time: Fall 2023 
+Time: Fall 2023 & Fall 2024
 
 Instructor: Amir Ali Ahmadi
