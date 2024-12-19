@@ -7,13 +7,13 @@ author_profile: true
 
 Talks
 =====
-**Disjunctive Sum of Squares**
+**Disjunctive Sum of Squares**\
 INFORMS Annual Meeting at Seattle, Oct 2024.
 
 
 Poster presentations
 =====
-**Disjunctive Sum of Squares**
+**Disjunctive Sum of Squares**\
 Princeton Workshop on Optimization, Learning, and Control, Jun 2024.
 
 <!--{% if site.talkmap_link == true %}
