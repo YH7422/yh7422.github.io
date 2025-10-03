@@ -9,6 +9,7 @@ Talks
 =====
 **Disjunctive Sum of Squares**\
 INFORMS Annual Meeting at Seattle, Oct 2024.
+ICCOPT at University of Southern California, July 2025.
 
 
 Poster presentations
