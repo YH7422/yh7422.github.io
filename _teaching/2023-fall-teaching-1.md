@@ -14,7 +14,7 @@ ORF523
 ======
 Course name: Convex and Conic Optimization
 
-Time: Spring 2024
+Time: Spring 2024 & 2025
 
 Instructor: Amir Ali Ahmadi
 
@@ -22,6 +22,6 @@ ORF363/COS323
 ======
 Course name: Computing and Optimization for the Physical and Social Sciences
 
-Time: Fall 2023 & Fall 2024
+Time: Fall 2023, 2024 & 2025
 
 Instructor: Amir Ali Ahmadi
