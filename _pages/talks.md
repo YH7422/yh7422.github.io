@@ -12,7 +12,7 @@ INFORMS Annual Meeting, Seattle, Oct 2024.\
 ICCOPT, University of Southern California, July 2025.
 
 **The Most-Often Profitable Portfolio**\
-MOPTA, Lehigh University, Aug 2026.\
+MOPTA, Lehigh University, Aug 2026.
 
 
 Poster presentations
