@@ -8,14 +8,18 @@ author_profile: true
 Talks
 =====
 **Disjunctive Sum of Squares**\
-INFORMS Annual Meeting at Seattle, Oct 2024.\
-ICCOPT at University of Southern California, July 2025.
+INFORMS Annual Meeting, Seattle, Oct 2024.\
+ICCOPT, University of Southern California, July 2025.
+
+**The Most-Often Profitable Portfolio**\
+MOPTA, Lehigh University, Aug 2026.\
 
 
 Poster presentations
 =====
 **Disjunctive Sum of Squares**\
-Princeton Workshop on Optimization, Learning, and Control, Jun 2024.
+Princeton Workshop on Optimization, Learning, and Control, June 2024.\
+Northeast Systems and Control Workshop (NESCW), Princeton University, May 2026.
 
 <!--{% if site.talkmap_link == true %}
 
